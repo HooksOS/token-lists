@@ -1,0 +1,45 @@
+{
+  "name": "HookSwap Default",
+  "timestamp": "2026-07-10T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["hookswap", "default"],
+  "logoURI": "https://hookswap.org/favicon.svg",
+  "tokens": [
+    {
+      "chainId": 4663,
+      "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "logoURI": "https://hookswap.org/brand/glyph-mark.png"
+    },
+    {
+      "chainId": 4663,
+      "address": "0x3b5a01Efc59f3465b8Eb04697f97CFE0BA700D9D",
+      "symbol": "tHOOK",
+      "name": "Test Hook Token",
+      "decimals": 18,
+      "logoURI": "https://hookswap.org/brand/glyph-mark.png"
+    },
+    {
+      "chainId": 196,
+      "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+      "symbol": "WOKB",
+      "name": "Wrapped OKB",
+      "decimals": 18,
+      "logoURI": "https://hookswap.org/brand/glyph-mark.png"
+    },
+    {
+      "chainId": 196,
+      "address": "0x144331BB4C3026D135896CaFec3Ae3D667f4F376",
+      "symbol": "HKT",
+      "name": "HookSwap Test",
+      "decimals": 18,
+      "logoURI": "https://hookswap.org/brand/glyph-mark.png"
+    }
+  ]
+}
